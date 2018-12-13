@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="live_track">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-Q3ST57Q:sa">
+          <Created>2018-06-06T17:18:08.7188382+05:30</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-Q3ST57Q</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01-09-16-Introduction to T-SQL programming(Transact - SQL).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-Q3ST57Q:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-Q3ST57Q</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>01-09-16-Introduction to T-SQL programming(Transact - SQL).sql</FullPath>
+        </FileNode>
+        <FileNode Name="01-09-16-System Defined Functions in SQL Server.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-Q3ST57Q:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-Q3ST57Q</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>01-09-16-System Defined Functions in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11-09-16-User defined functions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11-09-16-User defined functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11-09-16-User defined procedures.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11-09-16-User defined procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13-09-16-Transactions in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13-09-16-Transactions in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14-09-16-Indexes in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14-09-16-Indexes in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15-09-16-Creating an example DML Trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15-09-16-Creating an example DML Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15-09-16-Generating the triggers with Dynamic SQL.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15-09-16-Generating the triggers with Dynamic SQL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15-09-16-Triggers in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15-09-16-Triggers in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-09-16-DDL Triggers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16-09-16-DDL Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-09-16-Exception handling.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16-09-16-Exception handling.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-09-16-Logon Triggers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16-09-16-Logon Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-09-16-Types of temporary storage media.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16-09-16-Types of temporary storage media.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17-09-16-Types of temporary storage media.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17-09-16-Types of temporary storage media.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-Dynamic Cursors in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-Dynamic Cursors in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-FORWARD_ONLY Cursor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-FORWARD_ONLY Cursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-GLOBAL Cursor in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-GLOBAL Cursor in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-KEYSET Cursors in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-KEYSET Cursors in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-LOCAL Cursor in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-LOCAL Cursor in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-SCROLL Cursor in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-SCROLL Cursor in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-Static Cursors in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-Static Cursors in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-09-16-Types of temporary storage media.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-09-16-Types of temporary storage media.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19-09-16-Administration.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19-09-16-Administration.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24-08-16-SQL Commands.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24-08-16-SQL Commands.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24-09-16-Diff BW Del and Trunc.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24-09-16-Diff BW Del and Trunc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24-09-16-Introduction to XML data types and traversing methods.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24-09-16-Introduction to XML data types and traversing methods.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24-09-16-Merge command in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24-09-16-Merge command in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24-09-16-SET Operators in SQL Server.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>24-09-16-SET Operators in SQL Server.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25-08-16-SQL Commands.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25-08-16-SQL Commands.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25-08-16-SQL short cuts.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25-08-16-SQL short cuts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26-08-16_Constraints.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>26-08-16_Constraints.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27-08-16-Constraints.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27-08-16-Constraints.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28-08-16-IDENTITY.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>28-08-16-IDENTITY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29-08-16-Foreign Key.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>29-08-16-Foreign Key.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30-08-16-T-SQL.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30-08-16-T-SQL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31-08-16-Sys Defined Functions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>31-08-16-Sys Defined Functions.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
