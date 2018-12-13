@@ -1,0 +1,41 @@
+
+exact result 1:
+------------------
+
+declare @StartDate datetime, @EndDate datetime
+
+select @StartDate = '10/02/2016 08:40:18.000',@EndDate='10/05/2016 09:52:48.000'
+declare @Sec INT
+
+select @Sec = DateDiff(s, @startDate, @EndDate)
+
+select convert(varchar(10),@sec/3600)+':'+convert(varchar(10),@sec%3600/60)+':'+convert(varchar(10),(@sec%60)) 
+
+---------------------------------------------------------------------------------------------------------------- 
+
+exact result 2:
+-----------------------------------
+
+DECLARE  @StartDate datetime = '10/02/2016 08:40:18.000'
+        ,@EndDate   datetime = '10/05/2016 09:52:48.000'
+        ,@DaysDifferent int = 0
+        ,@Sec INT
+
+select @Sec = DateDiff(s, @StartDate, @EndDate)
+
+IF (DATEDIFF(day, @StartDate, @EndDate) > 0)
+    BEGIN
+        select @DaysDifferent = DATEDIFF(day, @StartDate, @EndDate)
+        select @Sec = @Sec - ( @DaysDifferent * 86400 )
+        SELECT LTRIM(STR(@DaysDifferent,3)) +'d '+ LTRIM(STR(@Sec/3600, 5)) + ':' +
+		 RIGHT('0' + LTRIM(@Sec%3600/60), 2) + ':' + RIGHT('0' + LTRIM(@Sec%60), 2) AS [dd hh:mm:ss]
+    END
+ELSE
+    BEGIN
+        SELECT LTRIM(STR(@DaysDifferent,3)) +'d '+ LTRIM(STR(@Sec/3600, 5)) + ':' + 
+		RIGHT('0' + LTRIM(@Sec%3600/60), 2) + ':' + RIGHT('0' + LTRIM(@Sec%60), 2) AS [dd hh:mm:ss]
+    END
+
+------------------------------------------------------------------------------------
+--dd hh:mm:ss
+--3d 1:12:30

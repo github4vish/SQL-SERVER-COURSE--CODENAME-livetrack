@@ -1,0 +1,12 @@
+EmpID|~|EmpFirstName|~|EmpLastName|~|ManagerID|~|DOB|~|DeptID|~|Mobile|~|Email|~|Emails|~|Salary
+1|~|Manoj Kumar Reddy T|~|B|~|8|~|1990-01-02 00:00:00|~|10|~|9845023456|~|manojreddy.thallapalli@gmail.com|~||~|69349.9494
+2|~|Mouli. K|~|C|~|5|~|1990-01-03 00:00:00|~|12|~|9845034567|~|kmouli99@gmail.com|~||~|65637.3375
+3|~|John Babu G|~|A|~|5|~|1990-01-04 00:00:00|~|14|~|9845045678|~|johnganta88@gmail.com|~||~|76576.8938
+4|~|Gangaraju D|~|B|~|8|~|1990-01-05 00:00:00|~|11|~|9845056789|~|gangarajud906@gmail.com|~||~|69192.6933
+5|~|Trinadh Babu B|~|C|~|7|~|1990-01-06 00:00:00|~|13|~|9845067900|~|b.trinadh258@gmail.com|~||~|71107.1156
+7|~|Sarada M|~|B|~||~|1990-01-08 00:00:00|~|12|~|9845090122|~|Sarada.nit005@gmail.com|~||~|68919.2044
+8|~|Saikeerthi|~|C|~|5|~|1990-01-09 00:00:00|~|14|~|9845101233|~|sai.keerthi32@gmail.com|~||~|80405.7385
+11|~|Penchalareddy M|~|C|~|8|~|1990-01-12 00:00:00|~|11|~|9845134566|~|penchal483.up@gmail.com|~||~|65897.8031
+12|~|Viswanath M|~|A|~|7|~|1990-01-13 00:00:00|~|10|~|9845145677|~|viswanath549@gmail.com|~||~|62902.4485
+13|~|Manoj Kumar Reddy T2|~|B2|~|8|~|1990-01-02 00:00:00|~|14|~|9845023456|~|manojreddy.thallapalli@gmail.com|~||~|76576.8938
+14|~|Manoj Kumar Reddy T3|~|B3|~|7|~|1990-01-02 00:00:00|~|14|~|9845023456|~|manojreddy.thallapalli@gmail.com|~||~|88647.3267

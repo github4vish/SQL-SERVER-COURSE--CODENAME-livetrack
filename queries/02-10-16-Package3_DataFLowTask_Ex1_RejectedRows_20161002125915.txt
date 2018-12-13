@@ -1,0 +1,3 @@
+Flat File Source Error Output Column|~|ErrorCode|~|ErrorColumn
+1O3|~|Manoj Kumar Reddy T2|~|B2|~|8|~|1990-01-02 00:00:00|~|14|~|9845023456|~|manojreddy.thallapalli@gmail.com|~||~|76576.8938
+|~|-1071607676|~|18
